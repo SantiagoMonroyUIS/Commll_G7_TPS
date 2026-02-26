@@ -1,4 +1,1 @@
-# hola
-# Primer repositorio de prueba
-* hola
-* Holaaaaa
+REPOSITORIO LABORATORIO COMUNICACIONES II
